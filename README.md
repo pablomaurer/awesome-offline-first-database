@@ -1,4 +1,5 @@
 # awesome-offline-first-database
+Libs, that will help working with databases and big array's on hybird-apps like ionic.
 
 ## replication
 - [pouchdb](https://github.com/pouchdb/pouchdb)
